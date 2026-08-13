@@ -125,17 +125,6 @@ The goal is to combine:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishjhaa&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anishjhaa" alt="GitHub Streak" />
-</p>
 
 ## 📈 GitHub Contribution Graph
 
