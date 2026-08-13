@@ -125,22 +125,25 @@ The goal is to combine:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishjhaa&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anishjhaa&show_icons=true&locale=en&rank_icon=github" alt="Anish Jha GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishjhaa&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishjhaa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishjhaa" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=anishjhaa" alt="Anish Jha GitHub Streak" />
 </p>
 
----
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <b>💡 Building with code. Learning with curiosity. Solving with AI.</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishjhaa&hide_border=true" alt="Anish Jha Contribution Graph" />
 </p>
+
